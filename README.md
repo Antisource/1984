@@ -15,6 +15,7 @@ By the end of this project, learners will gain a beginner's understanding of bui
 ## Project Structure
 
 - **data**: This directory contains the raw text data of both the book and the album lyrics.
+- **1984 versus NLP**: This a jupyter notebook which performs the above tasks.
 
 
 ## Getting Started
