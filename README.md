@@ -2,9 +2,9 @@
 
 Inspired by the cultural phenomenon, Versus, we have leveraged NLP techniques to compare two iconic works: 1984, the dystopian social science fiction novel by English novelist George Orwell, and 1984, the sixth studio album by American rock band Van Halen.
 
-![Novel](https://kopp-medien.websale.net/bilder/gross/133206.jpg){:height="300px" width="300px"}
+<img src="https://kopp-medien.websale.net/bilder/gross/133206.jpg" alt="Novel" width="300">
 
-![Album](https://www.metalkingdom.net/album-photo/2022/05/37658-van-halen-1984.jpg){:height="300px" width="300px"}
+<img src="https://www.metalkingdom.net/album-photo/2022/05/37658-van-halen-1984.jpg" alt="Album" width="300">
 
 
 ## Overview
