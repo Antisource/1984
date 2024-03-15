@@ -4,13 +4,12 @@ Inspired by the cultural phenomenon, Versus, we will leverage NLP techniques to 
 
 ## Overview
 
-In this project, we'll delve into the following NLP techniques:
+We have performed the following:
 
 1. **Summarizing Text**: We'll use NLP to generate summaries of the book and album, extracting key points and themes.
 2. **Sentiment Analysis**: We'll analyze the sentiment expressed in both the book and album, exploring the emotional tone conveyed.
 3. **Word Clouds**: We'll create word clouds to visually represent the most frequently occurring words in the text, providing insights into the primary topics and concepts.
 
-By the end of this project, learners will gain a beginner's understanding of building NLP projects and exploring textual data in a comparative manner.
 
 ## Project Structure
 
